@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5A4B7D;}
+	.st1{clip-path:url(#SVGID_2_);fill:#4D3D73;}
+	.st2{clip-path:url(#SVGID_2_);fill:#7B65A8;}
+	.st3{clip-path:url(#SVGID_2_);}
+	.st4{fill:#F98869;}
+	.st5{opacity:0.38;fill:#781900;enable-background:new    ;}
+	.st6{fill:#FFBCAB;}
+	.st7{fill:#3C66B1;}
+	.st8{fill:#B8D6FD;}
+	.st9{fill:#FFF5CC;}
+	.st10{fill:#315591;}
+	.st11{opacity:0.58;fill:#315591;enable-background:new    ;}
+</style>
+<circle class="st0" cx="256" cy="256" r="243.05"/>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="256" cy="256" r="243.05"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<polyline class="st1" points="12.95,499.14 110.59,395.69 473,395.69 375.36,499.14 	"/>
+	<polyline class="st2" points="109.11,395.78 109.11,13.14 512,13.14 512,395.78 	"/>
+	<g class="st3">
+		<path class="st4" d="M187.53,311.8v22.51h-49.26v-38.76h33.01C180.26,295.55,187.53,302.82,187.53,311.8z"/>
+		<rect x="138.27" y="313.27" class="st5" width="49.26" height="15.94"/>
+		<g>
+			<path class="st4" d="M138.27,395.78h-29.16V228.99h10.42c10.35,0,18.74,8.39,18.74,18.74L138.27,395.78L138.27,395.78
+				L138.27,395.78z"/>
+			<path class="st4" d="M422.01,395.78h-29.16V323.2c0-4.82,3.91-8.73,8.73-8.73h20.43V395.78z"/>
+			<rect x="138.27" y="347.09" class="st4" width="254.57" height="22.62"/>
+		</g>
+		<rect x="138.27" y="324.46" class="st6" width="254.57" height="22.62"/>
+		<rect id="SVGCleanerId_0" x="238.25" y="105.32" class="st7" width="124.11" height="177.19"/>
+		<g>
+			<rect id="SVGCleanerId_0_1_" x="238.25" y="105.32" class="st7" width="124.11" height="177.19"/>
+		</g>
+		<rect x="238.25" y="95.88" class="st7" width="124.11" height="186.63"/>
+		<g>
+			<rect x="290.94" y="105.32" class="st8" width="18.73" height="177.19"/>
+			<rect x="238.25" y="184.55" class="st8" width="60.36" height="18.73"/>
+			<rect x="297.71" y="184.55" class="st8" width="64.66" height="18.73"/>
+		</g>
+		<g>
+			<path class="st9" d="M338.42,118.34c2.83,4.11,4.49,9.1,4.49,14.47c0,14.12-11.44,25.56-25.56,25.56c-2.68,0-5.25-0.41-7.68-1.18
+				c4.61,6.7,12.32,11.09,21.07,11.09c14.12,0,25.56-11.44,25.56-25.56C356.3,131.28,348.78,121.6,338.42,118.34z"/>
+			<path class="st9" d="M264.36,155.29c-2.64,0-4.79-2.14-4.79-4.79v-14.39c0-2.65,2.14-4.79,4.79-4.79c2.64,0,4.79,2.14,4.79,4.79
+				v14.4C269.15,153.15,267.01,155.29,264.36,155.29z"/>
+			<path class="st9" d="M271.56,148.1h-14.39c-2.64,0-4.79-2.14-4.79-4.79s2.14-4.79,4.79-4.79h14.39c2.64,0,4.79,2.14,4.79,4.79
+				S274.2,148.1,271.56,148.1z"/>
+			<path class="st9" d="M270.07,254.57c-1.23,0-2.45-0.47-3.39-1.4l-10.18-10.18c-1.87-1.87-1.87-4.9,0-6.77
+				c1.87-1.87,4.9-1.87,6.77,0l10.18,10.18c1.87,1.87,1.87,4.9,0,6.77C272.52,254.11,271.29,254.57,270.07,254.57z"/>
+			<path class="st9" d="M259.89,254.57c-1.23,0-2.45-0.47-3.39-1.4c-1.87-1.87-1.87-4.9,0-6.77l10.18-10.18
+				c1.87-1.87,4.9-1.87,6.77,0c1.87,1.87,1.87,4.9,0,6.77l-10.18,10.18C262.34,254.11,261.12,254.57,259.89,254.57z"/>
+		</g>
+		<rect x="221.35" y="86.44" class="st8" width="157.92" height="18.88"/>
+		<g>
+			<rect x="309.67" y="184.55" class="st10" width="12.64" height="18.73"/>
+			<rect x="238.25" y="105.32" class="st11" width="124.11" height="12.64"/>
+		</g>
+		<rect x="138.27" y="358.39" class="st5" width="254.57" height="11.31"/>
+	</g>
+</g>
+</svg>
